@@ -1,4 +1,4 @@
-# [Your Name]'s Resume
+# AKHILESH KUMAR N
 
 Welcome to my GitHub! Below you'll find a summary of my professional background, skills, and experience. Feel free to explore my repositories to see the work I've done!
 
