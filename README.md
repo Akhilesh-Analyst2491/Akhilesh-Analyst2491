@@ -1,7 +1,6 @@
 # AKHILESH KUMAR N
 
-Welcome to my GitHub! Below you'll find a summary of my professional background, skills, and experience. Feel free to explore my repositories to see the work I've done!
-
+I'm excited to share my professional journey with you. Here, you'll find an overview of my skills, experience, and the projects I've worked on. Feel free to explore my repositories to get a closer look at the work I’m passionate about!
 ---
 
 ## 📌 About Me
