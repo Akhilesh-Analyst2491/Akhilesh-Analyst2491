@@ -35,7 +35,7 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ---
 
-# INSTALIMB PVT LTD - Bengaluru  
+# INSTALIMB PVT LTD  
 **B2B Officer**  
 *May 2024 - Sep 2024*  
 - Identified and targeted potential clients, including hospitals, clinics, and healthcare providers, through focused market research and analysis of industry trends.
@@ -47,7 +47,7 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ---
 
-# DENTAL HOSPITAL - Kolar  
+# DENTAL HOSPITAL 
 **Pharmacist**  
 *Jan 2021 - Apr 2024*  
 - Evaluated client requirements and recommended tailored product solutions, demonstrating a deep understanding of client needs and priorities.
@@ -58,7 +58,7 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ---
 
-# IQVIA Pvt Ltd - Bengaluru  
+# IQVIA Pvt Ltd
 **Safety Associate**  
 *Sep 2019 - Dec 2020*  
 - Processed safety data in compliance with applicable regulations, guidelines, SOPs, and project requirements.
