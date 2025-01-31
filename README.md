@@ -15,32 +15,67 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ## 🛠️ Skills
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) - **Advanced Excel**: Expertise in data analysis with PivotTables, Power Query, Macros, and advanced formulas (VLOOKUP, INDEX-MATCH).
-- ![Tableau](https://img.shields.io/badge/-Tableau-E47639?style=flat-square&logo=tableau&logoColor=white) - **Tableau**: Skilled in creating interactive dashboards and visualizations, connecting to diverse data sources, and using calculated fields for actionable insights.
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) - **Power BI**: Experienced in building dynamic dashboards and reports, using Power Query for data transformation and DAX for advanced calculations.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) - **MySQL**: Proficient in database management, writing optimized SQL queries, and performing data manipulation and reporting.
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - **Python**: Strong in data analysis with Pandas/NumPy, creating visualizations using Matplotlib/Seaborn, and automating data processing tasks.
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) - Expertise in data analysis with PivotTables, Power Query, Macros, and advanced formulas (VLOOKUP, INDEX-MATCH).
+- ![Tableau](https://img.shields.io/badge/-Tableau-E47639?style=flat-square&logo=tableau&logoColor=white) - Skilled in creating interactive dashboards and visualizations, connecting to diverse data sources, and using calculated fields for actionable insights.
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) - Experienced in building dynamic dashboards and reports, using Power Query for data transformation and DAX for advanced calculations.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) - Proficient in database management, writing optimized SQL queries, and performing data manipulation and reporting.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Strong in data analysis with Pandas/NumPy, creating visualizations using Matplotlib/Seaborn, and automating data processing tasks.
 
 ---
 
 ## 💼 Experience
 
-### [Job Title] - [Company Name]  
-*[Date Range]*
-- [Briefly describe your main responsibilities and key achievements in this role.]
-- [Include any noteworthy accomplishments, e.g., "Increased application performance by 30%" or "Led a team of 5 developers on a successful project."]
-  
-### [Job Title] - [Company Name]  
-* [Date Range]*
-- [List your responsibilities and achievements in this role.]
-- [Example: "Developed a full-stack web application using React and Node.js."]
+# MEDTOUREASY - Traineeship  
+**Business Analyst Trainee**  
+*Dec 2024*  
+- Gained hands-on experience in business analysis methodologies, applying data analytics tools to support decision-making processes.
+- Conducted requirements gathering, process optimization, and stakeholder management to improve business operations.
+- Developed skills in preparing detailed reports, documentation, and presenting findings to senior stakeholders.
+- Assisted in the application of analytical techniques to optimize business processes and enhance overall performance.
 
 ---
 
-## 🎓 Education
+# INSTALIMB PVT LTD - Bengaluru  
+**B2B Officer**  
+*May 2024 - Sep 2024*  
+- Identified and targeted potential clients, including hospitals, clinics, and healthcare providers, through focused market research and analysis of industry trends.
+- Built and maintained strong relationships with healthcare professionals, stakeholders, and key opinion leaders, leveraging excellent communication skills to establish trust and credibility.
+- Presented product benefits and provided technical information to potential customers, demonstrating value and fostering client engagement.
+- Collaborated with marketing and business development teams to design and implement effective product promotion strategies, ensuring high levels of customer satisfaction.
+- Monitored sales performance, prepared detailed reports for management, and proposed strategies for improvement.
+- Represented the organization at conferences, seminars, and industry events, staying updated on the latest healthcare trends and advancements.
 
-- **[Degree or Certificate]** – [University/Institution], [Year]
-- [Relevant Courses or Certifications] – [Institution/Platform]
+---
+
+# DENTAL HOSPITAL - Kolar  
+**Pharmacist**  
+*Jan 2021 - Apr 2024*  
+- Evaluated client requirements and recommended tailored product solutions, demonstrating a deep understanding of client needs and priorities.
+- Leveraged effective selling techniques to engage doctors, advocating for product prescriptions through detailed cost-benefit analyses.
+- Delivered comprehensive product information and distributed samples to medical professionals to enhance familiarity and confidence in product offerings.
+- Collaborated with the sales team to develop and execute cohesive brand strategies, ensuring a consistent and impactful marketing message.
+- Monitored and analysed market data and trends, identifying competitive advantages to support strategic decision-making and drive business growth.
+
+---
+
+# IQVIA Pvt Ltd - Bengaluru  
+**Safety Associate**  
+*Sep 2019 - Dec 2020*  
+- Processed safety data in compliance with applicable regulations, guidelines, SOPs, and project requirements.
+- Conducted Pharmacovigilance activities, including collecting and tracking Adverse Events (AE), determining initial/update status, and ensuring accurate database entry.
+- Coded AEs and products, wrote detailed narratives, and handled literature-related tasks to support safety operations.
+- Assumed additional workflow responsibilities as directed by the Operations team, ensuring seamless project execution.
+- Maintained high productivity and quality standards, proactively identifying and addressing potential quality issues.
+- Participated in project team meetings, providing feedback to the Operations Manager on challenges, issues, and successes.
+- Adhered to all organizational policies and processes, demonstrating 100% compliance with people practices.
+
+---
+
+### Contact Information  
+- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
 
 ---
 
