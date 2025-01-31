@@ -88,6 +88,5 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kumar-n-46270733a/)
-![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aknotes2491@gmail.com)
 
