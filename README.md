@@ -15,11 +15,11 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ## 🛠️ Skills
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) - Expertise in data analysis with PivotTables, Power Query, Macros, and advanced formulas (VLOOKUP, INDEX-MATCH).
-- ![Tableau](https://img.shields.io/badge/-Tableau-E47639?style=flat-square&logo=tableau&logoColor=white) - Skilled in creating interactive dashboards and visualizations, connecting to diverse data sources, and using calculated fields for actionable insights.
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) - Experienced in building dynamic dashboards and reports, using Power Query for data transformation and DAX for advanced calculations.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) - Proficient in database management, writing optimized SQL queries, and performing data manipulation and reporting.
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Strong in data analysis with Pandas/NumPy, creating visualizations using Matplotlib/Seaborn, and automating data processing tasks.
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+- ![Tableau](https://img.shields.io/badge/-Tableau-E47639?style=flat-square&logo=tableau&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -68,14 +68,6 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 - Maintained high productivity and quality standards, proactively identifying and addressing potential quality issues.
 - Participated in project team meetings, providing feedback to the Operations Manager on challenges, issues, and successes.
 - Adhered to all organizational policies and processes, demonstrating 100% compliance with people practices.
-
----
-
-### Contact Information  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
 
 ---
 
