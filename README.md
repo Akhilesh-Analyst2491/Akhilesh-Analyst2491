@@ -77,11 +77,11 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ### [Bookstore Analysis Using SQL]  
 - **Description**: This project analyzes a bookstore database using SQL AND Excel, focusing on book sales, stock management, customer purchases, revenue generation, and ordering behavior.
-- **Link**: [(https://github.com/Akhilesh-Analyst2491/BookstoreDB_Sales)]
+- **Link**: (https://github.com/Akhilesh-Analyst2491/BookstoreDB_Sales)
 
 ### [Call Center Performance Analysis Using PowerBI]  
-- **Description**: [Brief overview of another project.]
-- **Link**: [(https://github.com/Akhilesh-Analyst2491/Call-Center-Performance-Analysis-?tab=readme-ov-file#call-center-performance-analysis---power-bi)]
+- **Description**: [This project analyzes call center performance using Power BI, focusing on key metrics such as total calls, response times, resolution rates, and customer satisfaction. It includes interactive dashboards, insightful visualizations, and DAX queries to enhance operational efficiency. Explore trends, agent performance, and call statistics with slicers and custom charts..]
+- **Link**:(https://github.com/Akhilesh-Analyst2491/Call-Center-Performance-Analysis-?tab=readme-ov-file#call-center-performance-analysis---power-bi)
 
 ---
 
