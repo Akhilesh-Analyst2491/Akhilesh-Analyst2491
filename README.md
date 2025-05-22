@@ -19,7 +19,7 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 - ![Tableau](https://img.shields.io/badge/-Tableau-E47639?style=flat-square&logo=tableau&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![R](https://img.shields.io/badge/-276DC3?style=flat-square&logo=R&logoColor=white)
+
 
 
 
@@ -49,7 +49,7 @@ Hello! I'm **AKHILESH KUMAR N**, with a strong background in healthcare and phar
 
 ---
 
-# DENTAL HOSPITAL 
+# HOSPITAL 
 **Pharmacist**  
 *Jan 2021 - Apr 2024*  
 - Evaluated client requirements and recommended tailored product solutions, demonstrating a deep understanding of client needs and priorities.
